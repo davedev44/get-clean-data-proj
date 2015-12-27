@@ -20,4 +20,12 @@ The following variables are reported in each row of the dataset.
 
 1. activityName - factor with six levels (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
 2. subjectCode - integer code for the subject for which raw data are summarized for this activity (1-30)
-3. 
+3. tBodyAccelSignalXMean - mean of the body component of the accelerometer signal in the X direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+4. tBodyAccelSignalYMean - mean of the body component of the accelerometer signal in the Y direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+5. tBodyAccelSignalZMean - mean of the body component of the accelerometer signal in the Z direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+6. tBodyAccelSignalXStdev - standard deviation of the body component of the accelerometer signal in the X direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+7. tBodyAccelSignalYStdev - standard deviation of the body component of the accelerometer signal in the Y direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+8. tBodyAccelSignalZStdev - standard deviation of the body component of the accelerometer signal in the Z direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+9. tGravityAccelSignalXMean - mean of the gravity component of the accelerometer signal in the X direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+10. tGravityAccelSignalXMean - mean of the gravity component of the accelerometer signal in the Y direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
+11. tGravityAccelSignalXMean - mean of the gravity component of the accelerometer signal in the Z direction [mean over raw values of this variable for this activity/subject] (units: g = m/s^2)
