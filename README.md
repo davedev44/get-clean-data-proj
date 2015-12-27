@@ -2,7 +2,7 @@
 
 ## Summary
 
-The materials herein are associated with the course project for the "Getting & Cleaning Data" course. Present here are a script, run_analysis.R, which takes as input raw data from the "Human Activity Recognition Using Smart Phones Data Set" (UCI Machine Learning Repository), and generates a tidy data set from a subset of it; a code book, which explains the composition of the tidy data set, and this README. The tidy data set is submitted under separate cover.
+The materials herein are associated with the course project for the "Getting & Cleaning Data" course. Present here are a script, run_analysis.R, which takes as input raw data from the "Human Activity Recognition Using Smart Phones Data Set" (UCI Machine Learning Repository), and generates a tidy data set from a subset of it; a code book, which explains the composition of the tidy data set, and this README. The tidy data set is submitted under separate cover. Note: for completion of this project, I drew upon several internet sources, mostly stack overflow, for overcoming various programming roadblocks (things like how to grep for an expression with parentheses in it), as well as the discussion board topics for the project for general help on best ways to proceed.
 
 ## run_analysis.R - tidy dataset generation script
 
